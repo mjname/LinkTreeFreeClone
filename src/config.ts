@@ -4,5 +4,5 @@ export const TITLE = "Buck Holester"
 
 // Contacts
 export const contact = "Keep in touch"
-export const phone = "+33600000000"
-export const email = "contact@yoandev.co"
+//export const phone = ""
+//export const email = ""
