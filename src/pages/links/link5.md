@@ -1,5 +1,5 @@
 ---
-title: BSky.app
+title: BlueSky
 emoji: 🐦
 href: https://bsky.app/profile/buckholester.com
 ---
